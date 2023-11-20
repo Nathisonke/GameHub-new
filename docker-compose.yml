@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gamehub:
+    image: gamehub
+    build:
+      context: .
+      dockerfile: ./Dockerfile
