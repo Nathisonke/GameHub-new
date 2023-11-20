@@ -33,7 +33,7 @@ The Dimensional responsiveness
 
 <img width="959" alt="image" src="https://github.com/Nathisonke/GameHub-new/assets/125651469/aa299ec6-3e30-4a37-b5f9-279e01b070c3">
 
-What it would look like in a Tablet
+How it would look like in a Tablet
 
 <img width="959" alt="image" src="https://github.com/Nathisonke/GameHub-new/assets/125651469/c9ff4f56-345a-4bd3-a1af-7ca1e8202ca9">
 
